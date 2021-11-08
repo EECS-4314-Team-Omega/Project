@@ -18,3 +18,5 @@ This is the website for EECS 4314 Team Omega's Project.
 
 ## Assignment 1
 **[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRdFSyFE8wbubezvXTxbWf9THw8Ku5fdtaZ1Jg8B40aj4jSqjQfFqgV06JNmjqGXYyU8CehKoMTo2Bw/pub?start=false&loop=false&delayms=3000)**
+
+**[Report and Files](https://github.com/EECS-4314-Team-Omega/Project/raw/main/a2.zip)**
